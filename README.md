@@ -9,4 +9,4 @@ I'm currently learning how to use HTML and CSS. Before this year I had no prior 
 Fun fact: I'm a big football fan of the Chicago Bears. Being a Bears fan has its rough times but I'm here for the long run 🐻⬇
 
 ### Contacts:
--<a href="www.linkedin.com/in/luke-pomes-9ab721250" target="_blank"><img src="Linkedin-logo.png" alt="LinkedIn logo" style="width: 50px;"></a>
+-<a href="www.linkedin.com/in/luke-pomes-9ab721250" target="_blank">LinkedIn</a>
