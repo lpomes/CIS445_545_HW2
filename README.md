@@ -16,9 +16,8 @@ Fun fact: I'm a big football fan of the Chicago Bears. Being a Bears fan has its
 * C++
 * Excel
 * SQL
-<br>
 
 ### Contacts:
--<img src="Linkedin-logo.png" style="width: 20px;"> <a href="www.linkedin.com/in/luke-pomes-9ab721250" target="_blank">LinkedIn</a> <br>
--<a href="mailto:lgpomes@gmail.com" target="_blank">Gmail</a>
+-<img src="Linkedin-logo.png" style="width: 30px;"><a href="www.linkedin.com/in/luke-pomes-9ab721250" target="_blank">LinkedIn</a> <br>
+-<img src="Gmail-logo.png" style="width: 30px;"><a href="mailto:lgpomes@gmail.com" target="_blank">Gmail</a>
 
