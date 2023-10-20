@@ -2,7 +2,7 @@
 
 ---
 
-<h3>Background about me</h3>
+<h3 id="para">Background about me</h3>
 Hi my name is Luke Pomes. I am currently a junior at Bradley University studying computer information systems and management information systems.
 
 I started programming back in high school and have been interested ever since. The more I learn about these concepts the more fascinated I am about how far programming/technology has gotten. This makes me want to continue to learn while also enjoying it.
