@@ -21,3 +21,7 @@ Fun fact: I'm a big football fan of the Chicago Bears. Being a Bears fan has its
 -<img src="Linkedin-logo.png" style="width: 30px;"><a href="www.linkedin.com/in/luke-pomes-9ab721250" target="_blank">LinkedIn</a> <br>
 -<img src="Gmail-logo.png" style="width: 30px;"><a href="mailto:lgpomes@gmail.com" target="_blank">Gmail</a>
 
+---
+
+<img align ="left" alt="Luke's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lpomes&show_icons=true&hide_border=true">
+
