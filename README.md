@@ -8,6 +8,7 @@ I started programming back in high school and have been interested ever since. T
 
 -💼 I'm currently working on finding an internship<br>
 -📚 Currently learning HTML, CSS, and JavaScript<br>
+-🎉 Goal for 2024: Survive the semester<br>
 -📺 Favorite show is Breaking Bad<br>
 -🎵 Favorite artist is Daft Punk<br>
 -🐻⬇ Fun fact: I'm a huge Chicago Bears fan
@@ -27,6 +28,11 @@ For my long term goals it's hard to say. I like setting short term goals so I ca
 
 ---
 
+### Experience
+So far I have not had much work experience but I've had many different roles for clubs and voluntter work. I am currently the treasurer for my fraternity. I create the budget using an excel spreadsheet and calculate financials using a website called OmegaFi. For volunteer work, I usually go to Loaves and Fish as a helper for those in need of food and living supplies.
+
+---
+
 ### <b>Contacts</b>
 -<img src="Linkedin-logo.png" style="width: 30px;"><a href="www.linkedin.com/in/luke-pomes-9ab721250" target="_blank">LinkedIn</a> <br>
 -<img src="Gmail-logo.png" style="width: 30px;"><a href="mailto:lgpomes@gmail.com" target="_blank">Gmail</a>
@@ -40,7 +46,7 @@ For my long term goals it's hard to say. I like setting short term goals so I ca
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lpomes&theme=dark" width="85%">
 
 #### Stats
-<img align ="left" alt="Luke's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lpomes&show_icons=true&hide_border=true">
+<img align ="left" alt="Luke's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lpomes&show_icons=true&hide_border=true&theme=dark"><br>
 
 #### Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpomes&layout=compact)
