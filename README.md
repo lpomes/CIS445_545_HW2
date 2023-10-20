@@ -3,10 +3,11 @@
 ---
 
 <h3>Background about me</h3>
+<p style="background-color: aqua;">
 Hi my name is Luke Pomes. I am currently a junior at Bradley University studying computer information systems and management information systems.
 
 I started programming back in high school and have been interested ever since. The more I learn about these concepts the more fascinated I am about how far programming/technology has gotten. This makes me want to continue to learn while also enjoying it.
-
+</p>
 -💼 I'm currently working on finding an internship<br>
 -📚 Currently learning HTML, CSS, and JavaScript<br>
 -🎉 Goal for 2024: Survive the semester<br>
@@ -22,21 +23,21 @@ For my long term goals it's hard to say. I like setting short term goals so I ca
 ---
 
 <h3>💻Languages/Appications learned</h3>
-* Languages: <b>Java, C++, SQL</b>
-* Microsoft applications: Word, PowerPoint, Excel, Access
-* Operating systems: Windows 10
+* Languages: <b>Java, C++, SQL</b><br>
+* Microsoft applications: <b>Word, PowerPoint, Excel, Access</b><br>
+* Operating systems: <b>Windows 10</b>
 
 ---
 
 <h3>📁Experience</h3>
-So far I have not had much work experience but I've had many different roles for clubs and voluntter work. I am currently the treasurer for my fraternity. I create the budget using an excel spreadsheet and calculate financials using a website called OmegaFi. For volunteer work, I usually go to Loaves and Fish as a helper for those in need of food and living supplies.
+So far I have not had much work experience but I've had many different roles for clubs and volunteer work. I am currently the treasurer for my fraternity. I create the budget using an excel spreadsheet and calculate financials using a website called OmegaFi. For volunteer work, I usually go to Loaves and Fish as a helper for those in need of food and living supplies.
 
 ---
 
 <h3>📱Contacts</h3>
--<img src="Linkedin-logo.png" style="width: 30px;"><a href="www.linkedin.com/in/luke-pomes-9ab721250" target="_blank">[LinkedIn]</a> <br>
--<img src="Gmail-logo.png" style="width: 30px;"><a href="mailto:lgpomes@gmail.com" target="_blank">[Gmail]</a> <br>
--<img src="Facebook-logo.png" style="width: 30px;"><a href="https://www.facebook.com/luke.pomes" target="_blank">[Facebook]</a>
+-<img src="Linkedin-logo.png" style="width: 30px;"><a href="www.linkedin.com/in/luke-pomes-9ab721250" target="_blank"><b>LinkedIn</b></a> <br>
+-<img src="Gmail-logo.png" style="width: 30px;"><a href="mailto:lgpomes@gmail.com" target="_blank"><b>Gmail</b></a> <br>
+-<img src="Facebook-logo.png" style="width: 30px;"><a href="https://www.facebook.com/luke.pomes" target="_blank"><b>Facebook</b></a>
 
 ---
 
