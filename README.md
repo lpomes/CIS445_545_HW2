@@ -3,11 +3,10 @@
 ---
 
 <h3>Background about me</h3>
-<p style="background-color: aqua;">
 Hi my name is Luke Pomes. I am currently a junior at Bradley University studying computer information systems and management information systems.
 
 I started programming back in high school and have been interested ever since. The more I learn about these concepts the more fascinated I am about how far programming/technology has gotten. This makes me want to continue to learn while also enjoying it.
-</p>
+
 -💼 I'm currently working on finding an internship<br>
 -📚 Currently learning HTML, CSS, and JavaScript<br>
 -🎉 Goal for 2024: Survive the semester<br>
@@ -35,9 +34,9 @@ So far I have not had much work experience but I've had many different roles for
 ---
 
 <h3>📱Contacts</h3>
--<img src="Linkedin-logo.png" style="width: 30px;"><a href="www.linkedin.com/in/luke-pomes-9ab721250" target="_blank"><b>LinkedIn</b></a> <br>
--<img src="Gmail-logo.png" style="width: 30px;"><a href="mailto:lgpomes@gmail.com" target="_blank"><b>Gmail</b></a> <br>
--<img src="Facebook-logo.png" style="width: 30px;"><a href="https://www.facebook.com/luke.pomes" target="_blank"><b>Facebook</b></a>
+-<img src="Linkedin-logo.png" style="width: 30px;"><a href="www.linkedin.com/in/luke-pomes-9ab721250" target="_blank">LinkedIn</a> <br>
+-<img src="Gmail-logo.png" style="width: 30px;"><a href="mailto:lgpomes@gmail.com" target="_blank">Gmail</a> <br>
+-<img src="Facebook-logo.png" style="width: 30px;"><a href="https://www.facebook.com/luke.pomes" target="_blank">Facebook</a>
 
 ---
 
