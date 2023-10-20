@@ -1,4 +1,4 @@
-## Hi, I'm Luke Pomes 👋
+<h1>Hi, I'm Luke Pomes 👋</h1>
 ---
 
 ### <b>Background about me</b>
@@ -21,14 +21,13 @@ For my long term goals it's hard to say. I like setting short term goals so I ca
 ---
 
 ### <b>💻Languages/Appications learned</b>
-* Java
-* C++
-* Excel
-* SQL
+* Languages: Java, C++, SQL
+* Microsoft applications: Word, PowerPoint, Excel, Access
+* Operating systems: Windows 10
 
 ---
 
-### Experience
+### 📁Experience
 So far I have not had much work experience but I've had many different roles for clubs and voluntter work. I am currently the treasurer for my fraternity. I create the budget using an excel spreadsheet and calculate financials using a website called OmegaFi. For volunteer work, I usually go to Loaves and Fish as a helper for those in need of food and living supplies.
 
 ---
@@ -40,7 +39,7 @@ So far I have not had much work experience but I've had many different roles for
 
 ---
 
-### GitHub Statistics
+### 📈GitHub Statistics
 
 #### Streaks
 
