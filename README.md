@@ -33,9 +33,10 @@ So far I have not had much work experience but I've had many different roles for
 
 ---
 
-### <b>Contacts</b>
+### <b>📱Contacts</b>
 -<img src="Linkedin-logo.png" style="width: 30px;"><a href="www.linkedin.com/in/luke-pomes-9ab721250" target="_blank">LinkedIn</a> <br>
--<img src="Gmail-logo.png" style="width: 30px;"><a href="mailto:lgpomes@gmail.com" target="_blank">Gmail</a>
+-<img src="Gmail-logo.png" style="width: 30px;"><a href="mailto:lgpomes@gmail.com" target="_blank">Gmail</a> <br>
+-<img src="Facebook-logo.png" style="width: 30px;"><a href="https://www.facebook.com/luke.pomes" target="_blank">Facebook</a>
 
 ---
 
@@ -48,5 +49,3 @@ So far I have not had much work experience but I've had many different roles for
 #### Stats
 <img align ="left" alt="Luke's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lpomes&show_icons=true&hide_border=true&theme=dark"><br>
 
-#### Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpomes&layout=compact)
