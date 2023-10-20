@@ -1,13 +1,3 @@
-# heading text{#identifier cssselector}
-
-<style>
-    p {
-        background-color: aqua;
-        color: blue;
-        
-    }
-</style>
-
 ## Hi, I'm Luke Pomes 👋
 
 ### Background about me
@@ -22,3 +12,4 @@ Fun fact: I'm a big football fan of the Chicago Bears. Being a Bears fan has its
 ### Contacts:
 -<a href="www.linkedin.com/in/luke-pomes-9ab721250" target="_blank">LinkedIn</a> <br>
 -<a href="mailto:lgpomes@gmail.com" target="_blank">Gmail</a>
+<link rel="stylesheet" href="myDesign.css">
