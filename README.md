@@ -33,9 +33,14 @@ For my long term goals it's hard to say. I like setting short term goals so I ca
 
 ---
 
+### GitHub Statistics
+#### Stats
 <img align ="left" alt="Luke's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lpomes&show_icons=true&hide_border=true">
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lpomes&theme=dark" width="90%">
 
-### Top Languages
+#### Streaks
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lpomes&theme=dark" width="70%">
+
+#### Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpomes&layout=compact)
