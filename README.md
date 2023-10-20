@@ -1,7 +1,7 @@
 ## Hi, I'm Luke Pomes 👋
 
 ### Background about me
-Hi my name is Luke Pomes. I am currently a junior at Bradley University studying computer information systems and management information systems.<
+Hi my name is Luke Pomes. I am currently a junior at Bradley University studying computer information systems and management information systems.
 
 I started programming back in high school and have been interested ever since. The more I learn about these concepts the more fascinated I am about how far programming/technology has gotten. This makes me want to continue to learn while also enjoying it.
 
@@ -11,8 +11,14 @@ Fun fact: I'm a big football fan of the Chicago Bears. Being a Bears fan has its
 
 ### Long term goals
 
+### Languages/Appications learned
+* Java
+* C++
+* Excel
+* SQL
+<br>
 
 ### Contacts:
--<img src="Linkedin-logo.png" style="width: 20px;"> <a href="www.linkedin.com/in/luke-pomes-9ab721250" target="_blank">LinkedIn</a> <br>
+-<img src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" style="width: 20px;"> <a href="www.linkedin.com/in/luke-pomes-9ab721250" target="_blank">LinkedIn</a> <br>
 -<a href="mailto:lgpomes@gmail.com" target="_blank">Gmail</a>
 
