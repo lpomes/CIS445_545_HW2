@@ -1,5 +1,4 @@
 ## Hi, I'm Luke Pomes 👋
-
 ---
 
 ### <b>Background about me</b>
@@ -7,10 +6,10 @@ Hi my name is Luke Pomes. I am currently a junior at Bradley University studying
 
 I started programming back in high school and have been interested ever since. The more I learn about these concepts the more fascinated I am about how far programming/technology has gotten. This makes me want to continue to learn while also enjoying it.
 
--💼 I'm currently working on finding an internship
--📚 Currently learning HTML, CSS, and JavaScript
--📺 Favorite show is Breaking Bad
--🎵 Favorite artist is Daft Punk
+-💼 I'm currently working on finding an internship<br>
+-📚 Currently learning HTML, CSS, and JavaScript<br>
+-📺 Favorite show is Breaking Bad<br>
+-🎵 Favorite artist is Daft Punk<br>
 -🐻⬇ Fun fact: I'm a huge Chicago Bears fan
 
 ---
@@ -34,7 +33,9 @@ For my long term goals it's hard to say. I like setting short term goals so I ca
 
 ---
 
-<img align ="left" alt="Luke's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lpomes&show_icons=true&hide_border=false">
+<img align ="left" alt="Luke's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lpomes&show_icons=true&hide_border=true">
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lpomes&theme=dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lpomes&theme=dark" width="90%">
 
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpomes&layout=compact)
